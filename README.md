@@ -1,4 +1,4 @@
-### Hey seja muito bem vinda (o/e) !! 👋
+### Hey você aii, seja muito bem vinda (o/e) !!
 
 <!--
 **MariliseMorona/MariliseMorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
