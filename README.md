@@ -48,3 +48,6 @@ _Obrigada pela visita !!_
 ## Commits
 
 ![Snake animation](https://github.com/MariliseMorona/MariliseMorona/blob/output/github-contribution-grid-snake.svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
