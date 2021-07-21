@@ -44,3 +44,7 @@ _Obrigada pela visita !!_
 ## Linguagens
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliseMorona&layout=compact)](https://github.com/MariliseMorona/github-readme-stats)
+
+## Commits
+
+![Snake animation](https://github.com/MariliseMorona/MariliseMorona/blob/output/github-contribution-grid-snake.svg)
