@@ -2,14 +2,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilise-morona)](https://www.linkedin.com/in/marilise-morona)
 
-
-**MariliseMorona/MariliseMorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨
 
 Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que esta ai e me contate quando terminar a visita =]
 
 Fique a vontade viu ..
 
-- 🔭 Hoje estou buscando uma oportunidade na área programação, como desenvolvedora android mobile, mas tenho como objetivo, para quando estiver bem afiada em android, ser fullStack mobile.
+- 🔭 Hoje estou buscando uma oportunidade na área programação, como desenvolvedora android mobile, mas tenho como objetivo, para quando estiver bem afiada em android, ser fullStack.
  
 
 ^^
@@ -30,11 +29,13 @@ ps.: se você for recrutadora (o/e), ou esteja buscando uma profissional bem leg
 - 😄 Meu respositório ainda esta nos primeiros passos, então fique a vontade para contribuir, me dar feedbacks positivos e negativos, ficarei muito feliz em saber sua opinião.
 
 
-- ⚡ Eu me divirto de várias formas: lendo, jogando vídeo game, mexendo com plantas (sim moro numa pequena floresta urbana), e o bichinho do Hackathon já me pegou, então se souber de algum por ai me chama //
+- ⚡ Eu me divirto de várias formas: lendo, jogando vídeo game, mexendo com plantas (sim moro numa pequena floresta urbana), e o bichinho do Hackathon já me pegou, então se souber de algum por ai pode contar comigo //
 
+✨
 
-Obrigada pela visita !! Fico aguardando seu Hello World ! 
- ^^ Até breve ^^
+_Obrigada pela visita !!_
+**Fico aguardando seu Hello World ! **
+ ^^ _Até breve_ ^^
 
 ## Visitas
 
