@@ -1,5 +1,7 @@
 ### Hey você aii, seja muito bem vinda (o/e) !!
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilise-morona)](https://www.linkedin.com/in/marilise-morona)
+
 <!--
 **MariliseMorona/MariliseMorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +24,7 @@ ps.: se você for recrutadora (o/e), ou esteja buscando uma profissional bem leg
 
 - 💬 Sou uma virginiana, paranaense que adora aprender e café (sEm lEitE). Descobri o gosto pela programação meio que por acaso e agora não me imagino fazendo outra coisa.
 
-- 📫 Você pode me chamar pelo e-mail marymorona@gmail.com , ou ainda pelo linkedin https://linkedin/in/marilise-morona-dev-agro
+- 📫 Você pode me chamar pelo e-mail marymorona@gmail.com
 
 
 - 😄 Meu respositório ainda esta nos primeiros passos, então fique a vontade para contribuir, me dar feedbacks positivos e negativos, ficarei muito feliz em saber sua opinião.
