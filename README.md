@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilise-morona)](https://www.linkedin.com/in/marilise-morona)
 
-<!--
+
 **MariliseMorona/MariliseMorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que esta ai e me contate quando terminar a visita =]
@@ -36,5 +36,7 @@ ps.: se você for recrutadora (o/e), ou esteja buscando uma profissional bem leg
 Obrigada pela visita !! Fico aguardando seu Hello World ! 
  ^^ Até breve ^^
 
+## Visitas
 
--->
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=MariliseMorona)
+
