@@ -41,3 +41,6 @@ _Obrigada pela visita !!_
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=MariliseMorona)
 
+## Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/MariliseMorona/github-readme-stats)
