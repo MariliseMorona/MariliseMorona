@@ -1,7 +1,7 @@
 ### Hey você aii, seja muito bem vinda (o/e) !!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marilise-morona)](https://www.linkedin.com/in/marilise-morona)
-<a href="mailto:marymorona@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:marymorona@gmail.com"><img src="https://img.shields.io/badge/marymorona@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ✨
