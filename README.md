@@ -10,17 +10,14 @@ Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que 
 
 Fique a vontade viu ..
 
-- 🔭 Hoje estou buscando uma oportunidade na área programação, como desenvolvedora android mobile, mas tenho como objetivo, para quando estiver bem afiada em android, ser fullStack.
+- 🔭 Hoje atuo como desenvolvedora iOS Junior na Serasa.
  
 
-^^
-ps.: se você for recrutadora (o/e), ou esteja buscando uma profissional bem legal, trabalhadora, que topa todos os desafios, que agarra oportunidades com unhas e dentes, que quer crescer e aprender, que vai sim aprender cada dia mais e mais pra contribuir com todas as formas possíveis para que o projeto dê certo, você esta no perfil certo !! 
-^^
 
-
-- 🌱 Estou me aperfeiçoando em Kotlin. E quero aprender ainda mais ^^
+- 🌱 Estou me aperfeiçoando em desenvolvimento mobile. E quero aprender ainda mais ^^
  
 - 👯 Quero poder contribuir com projetos inovadores e tecnologias de impacto, buscar soluções para negócios e facilityes.
+- 
 - 🤔 Se eu puder te ajudar, me chame, se eu não conseguir acharemos como juntos.
 
 - 💬 Sou uma virginiana, paranaense que adora aprender e café (sEm lEitE). Descobri o gosto pela programação meio que por acaso e agora não me imagino fazendo outra coisa.
