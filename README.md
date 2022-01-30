@@ -48,15 +48,10 @@ _Obrigada pela visita !!_
 
 ## Commits
 
-![Snake animation](https://github.com/MariliseMorona/MariliseMorona/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MariliseMorona/MariliseMorona/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariliseMorona&show_icons=true&theme=radical)
-
-## Contribuições
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=MariliseMorona/Your_GitHub_Repository_Name)
 
  ## Momento infame ..
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
-
