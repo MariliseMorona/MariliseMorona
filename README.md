@@ -11,22 +11,23 @@ Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que 
 Fique a vontade viu ..
 
 - 🔭 Hoje atuo como desenvolvedora iOS Junior na Serasa.
+
+
  
 
 
 - 🌱 Estou me aperfeiçoando em desenvolvimento mobile. E quero aprender ainda mais ^^
  
 - 👯 Quero poder contribuir com projetos inovadores e tecnologias de impacto, buscar soluções para negócios e facilityes.
-- 
+ 
 - 🤔 Se eu puder te ajudar, me chame, se eu não conseguir acharemos como juntos.
 
-- 💬 Sou uma virginiana, paranaense que adora aprender e café (sEm lEitE). Descobri o gosto pela programação meio que por acaso e agora não me imagino fazendo outra coisa.
+- 💬 Sou uma virginiana, paranaense que adora aprender e ama café (sEm lEitE). Descobri o gosto pela programação meio que por acaso e agora não me imagino fazendo outra coisa.
 
 - 📫 Você pode me chamar pelo e-mail :)
 
-
 - 😄 Meu respositório ainda esta nos primeiros passos, então fique a vontade para contribuir, me dar feedbacks positivos e negativos, ficarei muito feliz em saber sua opinião.
-
+      Meu repo de projeto iOS <3 https://bitbucket.org/MariliseMorona/ ^^ bizoia lá tambem
 
 - ⚡ Eu me divirto de várias formas: lendo, jogando vídeo game, mexendo com plantas (sim moro numa pequena floresta urbana), e o bichinho do Hackathon já me pegou, então se souber de algum por ai pode contar comigo //
 
