@@ -27,7 +27,7 @@ Fique a vontade viu ..
 - 📫 Você pode me chamar pelo e-mail :)
 
 - 😄 Meu respositório ainda esta nos primeiros passos, então fique a vontade para contribuir, me dar feedbacks positivos e negativos, ficarei muito feliz em saber sua opinião.
-      Meu repo de projeto iOS <3 https://bitbucket.org/MariliseMorona/ ^^ bizoia lá tambem
+ 
 
 - ⚡ Eu me divirto de várias formas: lendo, jogando vídeo game, mexendo com plantas (sim moro numa pequena floresta urbana), e o bichinho do Hackathon já me pegou, então se souber de algum por ai pode contar comigo //
 
