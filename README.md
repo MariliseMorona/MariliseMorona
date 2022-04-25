@@ -10,7 +10,7 @@ Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que 
 
 Fique a vontade viu ..
 
-- 🔭 Hoje atuo como desenvolvedora iOS Junior na Serasa.
+- 🔭 Hoje atuo como desenvolvedora iOS Junior na ZarpSystem.
 
 
  
