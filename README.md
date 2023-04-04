@@ -42,6 +42,10 @@ _Obrigada pela visita !!_
  ![Profile View Counter](https://komarev.com/ghpvc/?username=MariliseMorona)
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=MariliseMorona)
 
+## Badges
+
+[![An image of @marymorona's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marymorona)](https://holopin.io/@marymorona)
+
 ## Linguagens
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliseMorona&layout=compact)](https://github.com/MariliseMorona/github-readme-stats)
