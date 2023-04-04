@@ -45,8 +45,7 @@ _Obrigada pela visita !!_
 
 ## Badges
 
-[![An image of @marymorona's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marymorona)]
-https://holopin.io/@marymorona
+![An image of @marymorona's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marymorona)
 
 ## Linguagens
 
