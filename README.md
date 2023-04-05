@@ -49,7 +49,7 @@ _Obrigada pela visita !!_
 
 ## Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliseMorona&show_icons=true&layout=cobalt)](https://github.com/MariliseMorona/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliseMorona&show_icons=true&layout=cobalt)]
 
 ## Commits
 
