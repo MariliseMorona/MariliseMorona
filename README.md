@@ -4,6 +4,8 @@
 <a href="mailto:marymorona@gmail.com"><img src="https://img.shields.io/badge/marymorona@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 ✨
 
 Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que esta ai e me contate quando terminar a visita =]
