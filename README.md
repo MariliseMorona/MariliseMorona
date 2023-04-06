@@ -49,7 +49,7 @@ _Obrigada pela visita !!_
 
 ## Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliseMorona&theme=tokyonight) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliseMorona&theme=tokyonight) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="100" height="100"/>
           
 
 ## Commits
