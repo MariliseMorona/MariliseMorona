@@ -51,7 +51,7 @@ _Obrigada pela visita !!_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliseMorona&theme=tokyonight) 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="70" />
           
           
 
