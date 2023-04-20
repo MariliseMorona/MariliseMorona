@@ -27,7 +27,6 @@ Fique a vontade viu ..
 
 - 😄 Meu respositório ainda esta nos primeiros passos, então fique a vontade para contribuir, me dar feedbacks positivos e negativos, ficarei muito feliz em saber sua opinião.
  
-
 - ⚡ Eu me divirto de várias formas: lendo, jogando vídeo game, mexendo com plantas (sim moro numa pequena floresta urbana), e o bichinho do Hackathon já me pegou, então se souber de algum por ai pode contar comigo //
 
 ✨
