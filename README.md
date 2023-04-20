@@ -10,13 +10,10 @@ Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que 
 
 Fique a vontade viu ..
 
-<img src="(https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png)" width="50", heigth="100">
+<a href="url"><img src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png" align="center" height="100" width="50" ></a>
+
 
 - 🔭 Hoje atuo como desenvolvedora iOS na ZarpSystem.
-
-
- 
-
 
 - 🌱 Estou me aperfeiçoando em desenvolvimento mobile. E quero aprender ainda mais ^^
  
