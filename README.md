@@ -1,11 +1,6 @@
 ### Hey você aii, seja muito bem vinda (o/e) !!
 
-<p float="left">
-<br><a href="https://linkedin.com/in/marilise-morona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marilise-morona" height="30" width="40" /></a>
-<a href="mailto:marymorona@gmail.com" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/iconGmail.png" alt="marilise-morona" height="25" width="35" /></a>
-<br>
-<br>
-</p>
+
 
 
 ✨
@@ -14,7 +9,13 @@ Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que 
 
 Fique a vontade viu ..
 
-<a href="url"><img src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png" align="center" height="300" width="300" ></a>
+<a href="url"><img src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png" align="center" height="300" width="300" ></a> 
+
+<p float="left">
+<br><a href="https://linkedin.com/in/marilise-morona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marilise-morona" height="30" width="40" /></a> <a href="mailto:marymorona@gmail.com" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/iconGmail.png" alt="marilise-morona" height="25" width="35" /></a>
+<br>
+<br>
+</p>
 
 
 - 🔭 Hoje atuo como desenvolvedora iOS na ZarpSystem.
