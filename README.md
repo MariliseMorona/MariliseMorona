@@ -1,8 +1,7 @@
 ### Hey você aii, seja muito bem vinda (o/e) !!
 
 <a href="https://linkedin.com/in/marilise-morona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marilise-morona" height="30" width="40" /></a>
-<a href="mailto:marymorona@gmail.com"><img src="https://img.shields.io/badge/marymorona@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<a href="mailto:marymorona@gmail.com" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/iconGmail.png" alt="marilise-morona" height="30" width="40" /></a>
 
 ✨
 
