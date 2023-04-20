@@ -10,6 +10,9 @@ Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que 
 
 Fique a vontade viu ..
 
+![This is an image](https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png)
+
+
 - 🔭 Hoje atuo como desenvolvedora iOS na ZarpSystem.
 
 
