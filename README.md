@@ -10,7 +10,7 @@ Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que 
 
 Fique a vontade viu ..
 
-<img src="[https://github.com/favicon.ico](https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png)" width="50", heigth="100">
+<img src="(https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png)" width="50", heigth="100">
 
 - 🔭 Hoje atuo como desenvolvedora iOS na ZarpSystem.
 
