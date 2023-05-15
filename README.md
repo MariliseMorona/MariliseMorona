@@ -10,11 +10,7 @@ Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que 
 Fique a vontade viu ..
 
 
-<a href="url"><img src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png" align="center" height="300" width="300" ></a> 
-
-Para dúvidas, sugestões ou recrutamento:
-<a href="https://linkedin.com/in/marilise-morona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marilise-morona" height="30" width="40" /></a>
-<a href="mailto:marymorona@gmail.com" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/iconGmail.png" alt="marilise-morona" height="25" width="35" /></a>
+<a href="url"><img src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png" align="center" alt="image my octocat is purple skin, colored hair, tattoo and piercing, according to a cup of coffee" height="300" width="300" ></a> 
 
 
 - 🔭 Hoje atuo como desenvolvedora iOS na ZarpSystem.
@@ -63,3 +59,9 @@ _Obrigada pela visita !!_
  ## Momento infame ..
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## Bora trocar uma ideia ..
+
+<a href="https://linkedin.com/in/marilise-morona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="image button go to my linkedin" height="30" width="40" /></a>
+<a href="mailto:marymorona@gmail.com" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/iconGmail.png" alt="image button send e-mail for me" height="25" width="35" /></a>
+<a href="https://www.buymeacoffee.com/marymorona" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/bmc-button.png" alt="image button by me a coffee" height="25" width="45" /></a>
