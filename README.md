@@ -68,7 +68,7 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
 
 ## Sempre aceito ..
 
-<br><a href="https://www.buymeacoffee.com/marymorona" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/bmc-button.png" alt="image button by me a coffee" height="45" width="105" /></a>
+<br><a href="https://www.buymeacoffee.com/marymorona" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/bmc-button.png" alt="image button by me a coffee" height="45" width="115" /></a>
 
 
 
