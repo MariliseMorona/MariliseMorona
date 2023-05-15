@@ -36,10 +36,10 @@ _Obrigada pela visita !!_
 
 ## Você pode saber mais sobre mim através das redes sociais:
 
-<br><a href="https://linkedin.com/in/marilise-morona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="image button go to my linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marilise-morona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="image button go to my linkedin" height="30" width="40" /></a>
 <a href="mailto:marymorona@gmail.com" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/iconGmail.png" alt="image button send e-mail for me" height="25" width="35" /></a>
 
-- Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank">minha web page</a>.
+Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" alt="Linf de acesso ao perfil do github.io de marilise morona">minha web page</a>.
 
 ## Visitas
 
@@ -68,7 +68,7 @@ _Obrigada pela visita !!_
 
 ## Sempre aceito ..
 
-<br><a href="https://www.buymeacoffee.com/marymorona" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/bmc-button.png" alt="image button by me a coffee" height="35" width="95" /></a>
+<br><a href="https://www.buymeacoffee.com/marymorona" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/bmc-button.png" alt="image button by me a coffee" height="45" width="105" /></a>
 
 
 
