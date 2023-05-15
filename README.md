@@ -2,7 +2,6 @@
 
 
 
-
 ✨
 
 Vou falar um pouco sobre mim, mas quero muito te conhecer, então aproveite que esta ai e me contate quando terminar a visita =]
@@ -35,6 +34,13 @@ _Obrigada pela visita !!_
 **Fico aguardando seu Hello World ! **
  ^^ _Até breve_ ^^
 
+## Você pode saber mais sobre mim através das redes sociais:
+
+<br><a href="https://linkedin.com/in/marilise-morona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="image button go to my linkedin" height="30" width="40" /></a>
+<a href="mailto:marymorona@gmail.com" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/iconGmail.png" alt="image button send e-mail for me" height="25" width="35" /></a>
+
+- Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank">minha web page</a>.
+
 ## Visitas
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MariliseMorona)
@@ -60,23 +66,9 @@ _Obrigada pela visita !!_
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Bora trocar uma ideia ..
+## Sempre aceito ..
 
-- 🔭 Você pode me encontrara através das redes sociais:
-
-<br><a href="https://linkedin.com/in/marilise-morona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="image button go to my linkedin" height="30" width="40" /></a>
-
-- 🌱 Pela minha web page:
-
-<br><a href="https://marilisemorona.github.io/morona/" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/logo_white.png" alt="image button da logo morona, contendo uma árvore de fundo sobreposta por conexões geométricas, entre a copa e as raízes esta escrito Morona" height="25" width="35" /></a>
-
-- 🌱 Ou ainda:
-
-<br><a href="mailto:marymorona@gmail.com" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/iconGmail.png" alt="image button send e-mail for me" height="25" width="35" /></a>
-
-- 🌱 Tu pode ainda me convidar pra um café (ou uma cerveja, aceito também!):
-
-<br><a href="https://www.buymeacoffee.com/marymorona" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/bmc-button.png" alt="image button by me a coffee" height="35" width="85" /></a>
+<br><a href="https://www.buymeacoffee.com/marymorona" target="blank"><img align="center" src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/bmc-button.png" alt="image button by me a coffee" height="35" width="95" /></a>
 
 
 
