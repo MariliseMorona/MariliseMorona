@@ -51,6 +51,35 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
 
 ![An image of @marymorona's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marymorona)
 
+{
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "58ef0009c71540cfb87e0e9d0d9e1665",
+    "hashed": true,
+    "identity": "sha256$7434200b9d09ca2b34748c01a998c26cc69f926832df861fbfd5928bfb2900ec"
+  },
+  "badge": "https://api.badgr.io/public/badges/d3rt3TUlQw-GBb1ethVnzg",
+  "issuedOn": "2023-05-18T13:07:21.645Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w/image"
+  },
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "Marilise Cristine Morona"
+  }
+}
+
 ## Linguagens
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliseMorona&theme=tokyonight)           
