@@ -50,7 +50,7 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
 ## Badges
 
 ![An image of @marymorona's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marymorona)
-![Badges DataStax](https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w/image)
+<iframe src="https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=marymorona%40gmail.com" title="Badge: Netflix Clone with GraphQL Workshop" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
 ## Linguagens
 
