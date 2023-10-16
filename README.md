@@ -14,19 +14,20 @@ Fique a vontade viu ..
 
 - 🔭 Hoje atuo como desenvolvedora iOS na ZarpSystem.
 
-- 🌱 Estou me aperfeiçoando em desenvolvimento mobile. E quero aprender ainda mais ^^
+- 🌱 Curso MBA em Engenharia de Software na UTFPR e estou me aperfeiçoando em mobile. E busco aprender ainda mais.
  
-- 👯 Quero poder contribuir com projetos inovadores e tecnologias de impacto, buscar soluções para negócios e facilityes.
+- 👯 Quero contribuir com projetos inovadores e tecnologias de impacto, buscar soluções para negócios e facilityes.
  
 - 🤔 Se eu puder te ajudar, me chame, se eu não conseguir acharemos como juntos.
 
-- 💬 Sou uma virginiana, paranaense que adora aprender e ama café (sEm lEitE). Descobri o gosto pela programação meio que por acaso e agora não me imagino fazendo outra coisa.
+- 💬 Sou uma virginiana, paranaense que adora aprender e ama café (sEm lEitE).
+
+- ⚡ Eu me divirto de várias formas: lendo, jogando vídeo game, mexendo com plantas (sim moro numa pequena floresta urbana) e fazendo nada com meus cachorros, e o bichinho do Hackathon já me pegou, então se souber de algum por ai pode contar comigo \°/
 
 - 📫 Você pode me chamar pelo e-mail :)
 
 - 😄 Meu respositório esta sofrendo um update (não se assuste !!), mas fique a vontade para contribuir, me dar feedbacks positivos e negativos, ficarei muito feliz em saber sua opinião.
  
-- ⚡ Eu me divirto de várias formas: lendo, jogando vídeo game, mexendo com plantas (sim moro numa pequena floresta urbana) e fazendo nada com meus cachorros, e o bichinho do Hackathon já me pegou, então se souber de algum por ai pode contar comigo //
 
 ✨
 
