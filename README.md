@@ -12,9 +12,9 @@ Fique a vontade viu ..
 <a href="url"><img src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png" align="center" alt="image my octocat is purple skin, colored hair, tattoo and piercing, according to a cup of coffee" height="300" width="300" ></a> 
 
 
-- 🔭 Hoje atuo como desenvolvedora iOS na ZarpSystem.
+- 🔭 Hoje atuo como Mobile Software Engineer na ZarpSystem.
 
-- 🌱 Curso MBA em Engenharia de Software na UTFPR e estou me aperfeiçoando em mobile. E busco aprender ainda mais.
+- 🌱 Conclui meu MBA em Engenharia de Software na UTFPR em 2025.
  
 - 👯 Quero contribuir com projetos inovadores e tecnologias de impacto, buscar soluções para negócios e facilityes.
  
