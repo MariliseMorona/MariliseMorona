@@ -54,7 +54,9 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
 ![An image of @marymorona's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marymorona)
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w/image"></a><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"></blockquote>
 
-[![Badge: Desenvolvimento AR/VR Módulo 1](https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w/image)](https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w)
+<a href="https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w">
+  <img src="https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w/image" width="120" height="120" alt="Badge: Desenvolvimento AR/VR Módulo 1"/>
+</a>
 
 
 ## Linguagens
