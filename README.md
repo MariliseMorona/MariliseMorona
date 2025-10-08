@@ -53,6 +53,35 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
 
 ![An image of @marymorona's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marymorona)
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w/image"></a><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"></blockquote>
+{
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "8j8EiAfZqr97I6Yi",
+    "hashed": true,
+    "identity": "sha256$55ac5a9233412cf792c48b714da4043d5950d744518702653282a467b0cbf542"
+  },
+  "badge": "https://api.badgr.io/public/badges/DNyFh85mQA-MvC_mq46CFg",
+  "issuedOn": "2025-10-08T00:21:05.842Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w/image"
+  },
+  "narrative": "Awarded for completing requirements in group Desenvolvimento para AR/VR: Módulo 1: Visão Geral de Realidade Estendida ",
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "name": "Marilise Morona",
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ]
+  }
+}
 
 ## Linguagens
 
