@@ -52,16 +52,17 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
 ## Badges
 
 ![An image of @marymorona's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marymorona)
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; text-align: center;">
-  <a href="https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w">
-    <img src="https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w/image" width="120" height="120" alt="Badge: Desenvolvimento AR/VR Módulo 1"/>
+<blockquote class="badgr-badge" style="display: inline-block; vertical-align: top; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; margin-right: 20px;">
+  <a href="https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w">
+    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/KzzoNWmMTNWQ2o6BgmNb3w/image">
   </a>
-  <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; line-height: 1.4; color: #555555;">
-    Marilise Morona
-  </p>
-  <p class="badgr-badge-narrative" style="margin: 0; font-size: 12px; line-height: 1.4; color: #555555;">
-    Awarded for completing requirements in group Desenvolvimento para AR/VR: Módulo 1: Visão Geral de Realidade Estendida
-  </p>
+  <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; color: #555555;"></p>
+</blockquote>
+<blockquote class="badgr-badge" style="display: inline-block; vertical-align: top; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
+  <a href="https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w">
+    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w/image">
+  </a>
+Desenvolvimento para AR/VR: Módulo 1: Visão Geral de Realidade Estendida</p>
 </blockquote>
 
 
