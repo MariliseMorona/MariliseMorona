@@ -62,7 +62,6 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
   <a href="https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w">
     <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/6F5Aq_HMSsy8R-KEEF6U1w/image">
   </a>
-Desenvolvimento para AR/VR: Módulo 1: Visão Geral de Realidade Estendida</p>
 </blockquote>
 
 
