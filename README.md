@@ -12,7 +12,7 @@ Fique a vontade viu ..
 <a href="url"><img src="https://github.com/MariliseMorona/MariliseMorona/blob/main/.github/workflows/assets/myOctocat.png" align="center" alt="image my octocat is purple skin, colored hair, tattoo and piercing, according to a cup of coffee" height="300" width="300" ></a> 
 
 
-- 🔭 Hoje atuo como Mobile Software Engineer na ZarpSystem e faço freelas com apps em Kotlin Compose e SwiftUI.
+- 🔭 Hoje atuo como Software Engineer na ZarpSystem (FulLStack e Mobile) e faço freelas (chama !).
 
 - 🌱 Conclui meu MBA em Engenharia de Software na UTFPR em 2025 e estou cursando a PósTech de MLOps Engineer na FIAP.
  
