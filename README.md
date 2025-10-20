@@ -66,6 +66,17 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
   </a>
 </blockquote>
 
+<blockquote style="border-left: 4px solid #4a90e2; padding: 15px 20px; background: #f9f9f9; border-radius: 8px;">
+  <p><strong>🏅 Badge:</strong> <a href="https://api.badgr.io/public/badges/WZWoX8NuQXapagzXWaMGMQ" target="_blank">Introdução à Computação Quântica: Módulo 1 — Física Quântica</a></p>
+  <p><strong>Emitido para:</strong> Marilise Cristine Morona</p>
+  <p><strong>Emitido em:</strong> 20 de outubro de 2025</p>
+  <p><strong>Descrição:</strong> Awarded for completing requirements in group <em>Introdução a Computação Quântica: Módulo 1: Física Quântica</em>.</p>
+  <p><a href="https://api.badgr.io/public/assertions/FNLp8IuGTa2yqTy1NyzyKA" target="_blank">🔗 Verificação pública</a></p>
+  <img src="https://api.badgr.io/public/assertions/FNLp8IuGTa2yqTy1NyzyKA/image" alt="Badge Image" style="max-width: 120px; margin-top: 10px;">
+</blockquote>
+
+
+
 
 ## Linguagens
 
