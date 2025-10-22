@@ -66,11 +66,27 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
   </a>
 </blockquote>
 
-<blockquote class="badgr-badge" style="display: inline-block; vertical-align: top; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
+<!-- <blockquote class="badgr-badge" style="display: inline-block; vertical-align: top; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
   <a href="https://api.badgr.io/public/badges/WZWoX8NuQXapagzXWaMGMQ">
     <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/FNLp8IuGTa2yqTy1NyzyKA/image">
   </a>
 </blockquote>
+
+<blockquote class="badgr-badge" style="display: inline-block; vertical-align: top; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
+  <a href="https://api.badgr.io/public/badges/B6ACp97XRiSMOPXiik4GDA">
+    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/H_9RxcoFTByAgGCEZHbUFw/image">
+  </a>
+</blockquote> -->
+
+<p align="center">
+  <a href="https://api.badgr.io/public/badges/WZWoX8NuQXapagzXWaMGMQ" target="_blank">
+    <img src="https://api.badgr.io/public/assertions/FNLp8IuGTa2yqTy1NyzyKA/image" width="120" height="120" alt="Badge 1">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://api.badgr.io/public/badges/B6ACp97XRiSMOPXiik4GDA" target="_blank">
+    <img src="https://api.badgr.io/public/assertions/H_9RxcoFTByAgGCEZHbUFw/image" width="120" height="120" alt="Badge 2">
+  </a>
+</p>
 
 
 
