@@ -78,7 +78,7 @@ Ou ainda pela <a href="https://marilisemorona.github.io/morona/" target="blank" 
 
 <p align="center">
   <a href="[https://api.badgr.io/public/badges/B6ACp97XRiSMOPXiik4GDA](https://www.credly.com/badges/9cdc64cf-518e-4701-b285-ab2a2aabed44/public_url)" target="_blank">
-    <img src="//cdn.credly.com/assets/utilities/embed.js" width="120" height="120" alt="Badge 2">
+    <img async src="//cdn.credly.com/assets/utilities/embed.js" width="120" height="120" alt="Badge 2">
   </a>
 </p>
 
